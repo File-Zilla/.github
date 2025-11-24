@@ -25,7 +25,7 @@ With FileZilla Client, you can enjoy:
 Its user-friendly interface and robust feature set make FileZilla a go-to choice for anyone who regularly works with remote servers. Whether you're uploading website files, managing backups, or syncing directories, FileZilla simplifies the process with ease and precision.
 
 <p align="center">
-  <img src="https://filezilla-project.org/images/screenshots/fz3_linux_main-small.png" alt="FileZilla Client Screenshot"/>
+  <img src="https://content.hostgator.com/img/filezilla-interface.png" alt="FileZilla Client Screenshot"/>
 </p>
 
 ---
